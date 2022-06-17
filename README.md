@@ -1,2 +1,2 @@
 # PAGCN
-## Will be avaiable as soon as possible
+## The code will be available as soon as possible
